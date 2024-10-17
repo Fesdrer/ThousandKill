@@ -80,3 +80,7 @@ The longest word in English is pneumonoultramicroscopicsilicovolcanoconiosis.
 # 退出
 
 目录下选择 $3$ 就会终止程序。你也可以直接按窗口右上角的×键来强制终止程序。
+
+# 附录
+
+最新添加了英语高考3500词（按照出现频率排序）的pdf版、txt版，分成171组，每组20个词语，能被本软件使用。
